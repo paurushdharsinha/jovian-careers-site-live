@@ -8,7 +8,7 @@ body{
     font-family: 'Roboto', sans-serif;
     font-weight: 400;  /* this is default */ 
     font-size:1rem;
-    color: #444444;
+    color:#404040;
 }
 
 /* @media screen and (min-width:500px) and (max-width:700px) {
