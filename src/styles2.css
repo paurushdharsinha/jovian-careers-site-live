@@ -13,8 +13,8 @@ body{
 
 /* @media screen and (min-width:500px) and (max-width:700px) {
     body{
-        background-color: lightblue; /* at width range between 500 abd 700 the background color will remain lightblue otherwise it will be white.  */ 
-    } 
+        background-color: lightblue; /* at width range between 500 abd 700 the background color will remain lightblue otherwise it will be white.  } */ 
+    
 } */
 
 h1,h2,h3,h4,h5,h6 {
